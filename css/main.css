@@ -23,7 +23,7 @@ img {
   flex-wrap: wrap;
   align-items: center;
   padding: 1.5rem 0;
-  padding: 1 em 0;
+  padding: 1em 0;
 
   background-color: #8bc9d9;
   border-top: 3px solid #005e76;
@@ -64,5 +64,5 @@ img {
 
 .copyright {
   padding: 0 1rem;
-  width: 100%
+  width: 100%;
 }
